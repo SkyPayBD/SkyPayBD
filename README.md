@@ -1,12 +1,13 @@
 # SkyPayBD
 
-Fast, secure, and automated payment gateway solutions tailored for modern businesses and developers.
+> Fast, secure, and automated payment gateway solutions tailored for modern businesses and developers.
 
 ---
 
-### Tech Stack & Tools
+## 🛠️ Tech Stack
 
-#### Backend & Web
+### Backend & Web
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-F05340?style=flat-square&logo=laravel&logoColor=white)
@@ -14,7 +15,8 @@ Fast, secure, and automated payment gateway solutions tailored for modern busine
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### Mobile Application
+### Mobile Application
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
@@ -23,18 +25,18 @@ Fast, secure, and automated payment gateway solutions tailored for modern busine
 
 ---
 
-### About SkyPayBD
+## 📖 About SkyPayBD
 
-SkyPayBD is an automated payment aggregator platform that bridges the gap between merchant services and local payment providers (bKash, Nagad, Rocket, Upay, and Cards). It provides robust developer APIs, instant transaction validation, real-time webhooks, and scalable merchant dashboard tools.
+SkyPayBD is an automated payment aggregator platform that bridges the gap between merchant services and local payment providers — **bKash, Nagad, Rocket, Upay, and Cards**. It provides robust developer APIs, instant transaction validation, real-time webhooks, and scalable merchant dashboard tools.
 
-- High-speed transaction processing
-- Automated webhook notifications and callbacks
-- Merchant-friendly dashboard for analytics and settlements
-- Ready-made SDKs for web and mobile platforms
+- ⚡ High-speed transaction processing
+- 🔔 Automated webhook notifications and callbacks
+- 📊 Merchant-friendly dashboard for analytics and settlements
+- 📦 Ready-made SDKs for web and mobile platforms
 
 ---
 
-### Official Documentation
+## 📚 Official Documentation
 
 <table>
   <tr>
@@ -53,33 +55,9 @@ SkyPayBD is an automated payment aggregator platform that bridges the gap betwee
 
 ---
 
-### Connect & Support
+## 🌐 Web Application
 
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://t.me/BD_Prime_Minister">
-        <img src="https://img.shields.io/badge/Telegram-@BD__Prime__Minister-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" width="100%" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://wa.me/8801761844968">
-        <img src="https://img.shields.io/badge/WhatsApp-+8801761844968-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="mailto:support@skypaybd.top">
-        <img src="https://img.shields.io/badge/Email-support@skypaybd.top-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100%" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="tel:+8809696014968">
-        <img src="https://img.shields.io/badge/Phone-+8809696014968-34A853?style=for-the-badge&logo=aircall&logoColor=white" width="100%" />
-      </a>
-    </td>
-  </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://skypaybd.top">
@@ -105,3 +83,52 @@ SkyPayBD is an automated payment aggregator platform that bridges the gap betwee
     </td>
   </tr>
 </table>
+
+---
+
+## 📱 Mobile Application
+
+SkyPayBD-এর Android অ্যাপ **Java ও Kotlin** দিয়ে তৈরি, **Gradle** বিল্ড সিস্টেম ব্যবহার করে। UI তৈরিতে **XML লেআউট** এবং স্মুথ অ্যানিমেশনের জন্য **Lottie** ইন্টিগ্রেশন রয়েছে।
+
+| Feature | Details |
+|---|---|
+| **Platform** | Android (Native) |
+| **Language** | Java, Kotlin |
+| **Build System** | Gradle |
+| **UI** | XML Layouts · Material Design |
+| **Animation** | Lottie Files |
+
+---
+
+## 📞 Contact & Support
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://t.me/BD_Prime_Minister">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://wa.me/8801761844968">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="mailto:support@skypaybd.top">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="tel:+8809696014968">
+        <img src="https://img.shields.io/badge/Phone-34A853?style=for-the-badge&logo=aircall&logoColor=white" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">© 2026 SkyPayBD · All rights reserved</p>
