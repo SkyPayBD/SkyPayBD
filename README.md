@@ -1,16 +1,14 @@
-## Hi there 👋
+### SkyPayBD
 
-<!--
-**SkyPayBD/SkyPayBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Official GitHub profile of **SkyPayBD** — A secure, fast, and automated online payment gateway solution designed for businesses and developers.
 
-Here are some ideas to get you started:
+#### What We Provide
+- Seamless Payment Gateway Integration (bKash, Nagad, Rocket, Cards)
+- Developer-friendly REST APIs & SDKs
+- Instant Transaction Verification & Webhooks
+- High Reliability & Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Connect With Us
+- Website: https://skypaybd.top
+- Support: support@skypaybd.top
+- Telegram: @BD_Prime_Minister
