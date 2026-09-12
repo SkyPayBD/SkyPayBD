@@ -36,18 +36,72 @@ SkyPayBD is an automated payment aggregator platform that bridges the gap betwee
 
 ### Official Documentation
 
-[![Docs Portal](https://img.shields.io/badge/Web_Documentation-0052CC?style=for-the-badge&logo=googledocs&logoColor=white)](https://skypaybd.top/docs)
-[![GitHub Docs](https://img.shields.io/badge/GitHub_Docs_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SkyPayBD/docs)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://skypaybd.top/docs">
+        <img src="https://img.shields.io/badge/Web_Documentation-skypaybd.top%2Fdocs-0052CC?style=for-the-badge&logo=googledocs&logoColor=white" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/SkyPayBD/docs">
+        <img src="https://img.shields.io/badge/GitHub_Docs_Repo-SkyPayBD%2Fdocs-181717?style=for-the-badge&logo=github&logoColor=white" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Connect & Support
 
-[![Website](https://img.shields.io/badge/Website-skypaybd.top-0A85EA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://skypaybd.top)
-[![Email](https://img.shields.io/badge/Email-support@skypaybd.top-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@skypaybd.top)
-[![Phone](https://img.shields.io/badge/Call-+8809696014968-34A853?style=for-the-badge&logo=aircall&logoColor=white)](tel:+8809696014968)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801761844968)
-[![Telegram](https://img.shields.io/badge/Telegram-@BD__Prime__Minister-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BD_Prime_Minister)
-[![YouTube](https://img.shields.io/badge/YouTube-@ETC__CreatorZ-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ETC_CreatorZ)
-[![Facebook](https://img.shields.io/badge/Facebook-SkyPayBD-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/SkyPayBD)
-[![GitHub](https://img.shields.io/badge/GitHub-SkyPayBD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SkyPayBD)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://t.me/BD_Prime_Minister">
+        <img src="https://img.shields.io/badge/Telegram-@BD__Prime__Minister-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://wa.me/8801761844968">
+        <img src="https://img.shields.io/badge/WhatsApp-+8801761844968-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="mailto:support@skypaybd.top">
+        <img src="https://img.shields.io/badge/Email-support@skypaybd.top-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="tel:+8809696014968">
+        <img src="https://img.shields.io/badge/Phone-+8809696014968-34A853?style=for-the-badge&logo=aircall&logoColor=white" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://skypaybd.top">
+        <img src="https://img.shields.io/badge/Website-skypaybd.top-0A85EA?style=for-the-badge&logo=googlechrome&logoColor=white" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/SkyPayBD">
+        <img src="https://img.shields.io/badge/GitHub-SkyPayBD-181717?style=for-the-badge&logo=github&logoColor=white" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://youtube.com/@ETC_CreatorZ">
+        <img src="https://img.shields.io/badge/YouTube-@ETC__CreatorZ-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://facebook.com/SkyPayBD">
+        <img src="https://img.shields.io/badge/Facebook-SkyPayBD-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
